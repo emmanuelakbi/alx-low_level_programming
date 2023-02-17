@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- * Main: Entru Point
+ * Main: print quote
  *
- * Description: prints without function
+ * Description: prints dora quote
  *
  * Return: Always 1 (Success)
  */
