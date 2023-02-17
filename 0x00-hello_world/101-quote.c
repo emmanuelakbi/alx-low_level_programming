@@ -3,7 +3,7 @@
 /**
  * Main: Entru Point
  *
- * Description: C program that prints without function printf and puts
+ * Description: prints without function
  *
  * Return: Always 1 (Success)
  */
