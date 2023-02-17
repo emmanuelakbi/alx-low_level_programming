@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * Main: Entry Point
+ * main: Entry Point
  *
- * Description: C program that prints the size of various types
+ * Description: prints size of types
  *
  * Return: Always 0 (Success)
  */
