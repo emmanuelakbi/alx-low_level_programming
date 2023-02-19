@@ -18,7 +18,7 @@ int main(void)
 	while (i < 123)
 	{
 		putchar(i);
-		i++; 
+		i++;
 	}
 
 	while (j < 91)
