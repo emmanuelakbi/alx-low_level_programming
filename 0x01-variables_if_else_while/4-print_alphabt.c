@@ -11,7 +11,7 @@ int main(void)
 
 	while (l < 123)
 	{
-		if(l != 113 && l != 101)
+		if (l != 113 && l != 101)
 		{
 			putchar(l);
 		}
